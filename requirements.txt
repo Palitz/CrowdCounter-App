@@ -1,0 +1,13 @@
+# Core dependencies for the main app and export
+torch
+torchvision
+lwcc
+onnx
+
+# Dependencies for inference and visualization
+opencv-python
+numpy
+matplotlib
+
+# Dependency for edge device deployment
+onnxruntime
