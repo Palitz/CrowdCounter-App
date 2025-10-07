@@ -6,13 +6,6 @@ This project provides a lightweight and efficient application for real-time crow
 
 
 
-!\[Heatmap Demo](https://i.imgur.com/your-demo-image.gif)  <!-- Optional: You can create a GIF of your app running and upload it to a site like Imgur -->
-
-
-
----
-
-
 
 \## Features
 
